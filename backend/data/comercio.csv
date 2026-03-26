@@ -1,0 +1,16 @@
+lugar_id,nombre,tipo_comercio,horario_apertura,horario_cierre,dias_operacion,telefono,sitio_web,calificacion_comercio
+p001,Parque Arví,ecoturismo,08:00,17:00,martes-domingo,+574-448-2020,parquearvi.org,4.8
+p002,Museo de Antioquia,museo,10:00,17:30,lunes-sabado,+574-251-3636,museodeantioquia.org,4.9
+p003,Jardín Botánico,parque_publico,08:00,17:30,lunes-domingo,+574-444-1500,botanicomedellin.org,4.7
+p004,Parque Lleras,zona_comercial,12:00,03:00,lunes-domingo,,parquelleras.com,4.3
+p005,Pueblito Paisa,atraccion_turistica,08:00,18:00,lunes-domingo,+574-235-8484,,4.2
+p006,Plaza Botero,espacio_publico,00:00,23:59,lunes-domingo,,plazabotero.com,4.6
+p007,Mercado del Río,mercado_gastronomico,12:00,23:00,martes-domingo,+574-444-7878,mercadodelrio.com.co,4.8
+p008,Parque de los Deseos,parque_cultural,15:00,21:00,miercoles-domingo,+574-516-8300,parquedelosdeseos.com,4.4
+p009,Laureles Gastronómico,zona_gastronomica,07:00,23:00,lunes-domingo,,,4.5
+p010,Casa de la Memoria,museo,09:00,17:30,martes-sabado,+574-385-5001,museocasadelamemoria.gov.co,4.9
+p011,Parque El Salado,parque_ecologico,07:00,17:00,lunes-domingo,+574-276-6544,,4.6
+p012,CC El Tesoro,centro_comercial,10:00,21:00,lunes-domingo,+574-321-1060,eltesoro.com.co,4.5
+p013,Biblioteca España,biblioteca_publica,08:00,19:00,lunes-sabado,+574-385-9200,reddebibliotecas.gov.co,4.7
+p014,Café Zorba,cafeteria,08:00,20:00,lunes-sabado,+574-311-6622,,4.8
+p015,Estadio Atanasio,estadio,variable,variable,variable,+574-260-6060,atanasio.gov.co,4.3

@@ -1,0 +1,14 @@
+uso_id,session_id,timestamp,herramienta,duracion_ms,exito,iteracion
+d5874467-5eee-4ed2-a0fb-8b88c801ce46,08b414b5-fba3-411b-b72c-aabfde0ee4e1,2026-03-25T20:34:12,get_clima,1038,True,1
+d31b78a9-0ef6-4a7c-a210-fe2f22f09762,08b414b5-fba3-411b-b72c-aabfde0ee4e1,2026-03-25T20:34:14,buscar_lugares,7,True,2
+4800e168-f990-40ec-a1dd-8c36675f17c7,08b414b5-fba3-411b-b72c-aabfde0ee4e1,2026-03-25T20:34:22,servicios_cercanos,2760,True,3
+8e498912-c6f2-4660-a764-5f654878ff02,08b414b5-fba3-411b-b72c-aabfde0ee4e1,2026-03-25T20:34:25,servicios_cercanos,3091,True,3
+121bf035-30fb-42a3-8be1-70a7b74671ef,08b414b5-fba3-411b-b72c-aabfde0ee4e1,2026-03-25T20:34:25,buscar_lugares,3,True,3
+dc15c33b-a187-4536-b6b5-b5df3b4116f6,08b414b5-fba3-411b-b72c-aabfde0ee4e1,2026-03-25T20:34:29,buscar_lugares,3,True,4
+d1f8f444-6bba-4eb3-947d-c3c497febf63,08b414b5-fba3-411b-b72c-aabfde0ee4e1,2026-03-25T20:34:29,buscar_lugares,2,True,4
+ff975336-3a35-47e1-b710-6f12a5c8faad,08b414b5-fba3-411b-b72c-aabfde0ee4e1,2026-03-25T20:34:33,buscar_lugares,3,True,5
+597ffd98-15b6-4994-ab5f-2c02de045daf,08b414b5-fba3-411b-b72c-aabfde0ee4e1,2026-03-25T20:34:33,buscar_lugares,3,True,5
+68fdaa69-269d-4a36-a30e-323e052cf8e7,08b414b5-fba3-411b-b72c-aabfde0ee4e1,2026-03-25T20:34:38,buscar_lugares,3,True,6
+b905bc5b-0934-4fd1-b3f4-35b0726e7abe,08b414b5-fba3-411b-b72c-aabfde0ee4e1,2026-03-25T20:34:39,servicios_cercanos,1097,True,6
+19b2888d-26a9-49d4-8e2e-15f2352e5d81,08b414b5-fba3-411b-b72c-aabfde0ee4e1,2026-03-25T20:34:46,buscar_lugares,2,True,7
+7659acbd-cfd7-4c34-9875-e7f76e5515e4,08b414b5-fba3-411b-b72c-aabfde0ee4e1,2026-03-25T20:34:53,servicios_cercanos,1202,True,8

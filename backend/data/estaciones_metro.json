@@ -1,0 +1,524 @@
+[
+  {
+    "nombre": "Envigado",
+    "lat": 6.1746713,
+    "lng": -75.5970278,
+    "linea": "?"
+  },
+  {
+    "nombre": "Ayurá",
+    "lat": 6.1860311,
+    "lng": -75.5861844,
+    "linea": "?"
+  },
+  {
+    "nombre": "Aguacatala",
+    "lat": 6.1938268,
+    "lng": -75.581824,
+    "linea": "?"
+  },
+  {
+    "nombre": "Poblado",
+    "lat": 6.2119524,
+    "lng": -75.5781115,
+    "linea": "?"
+  },
+  {
+    "nombre": "Industriales",
+    "lat": 6.2300218,
+    "lng": -75.5756148,
+    "linea": "?"
+  },
+  {
+    "nombre": "Exposiciones",
+    "lat": 6.2385047,
+    "lng": -75.57311,
+    "linea": "?"
+  },
+  {
+    "nombre": "Parque Berrío",
+    "lat": 6.250541,
+    "lng": -75.5681892,
+    "linea": "?"
+  },
+  {
+    "nombre": "Prado",
+    "lat": 6.2568618,
+    "lng": -75.5661367,
+    "linea": "?"
+  },
+  {
+    "nombre": "Hospital",
+    "lat": 6.26393,
+    "lng": -75.5633284,
+    "linea": "?"
+  },
+  {
+    "nombre": "Universidad",
+    "lat": 6.2694225,
+    "lng": -75.5657975,
+    "linea": "?"
+  },
+  {
+    "nombre": "Caribe",
+    "lat": 6.2783259,
+    "lng": -75.5693832,
+    "linea": "?"
+  },
+  {
+    "nombre": "Tricentenario",
+    "lat": 6.290346,
+    "lng": -75.5646204,
+    "linea": "?"
+  },
+  {
+    "nombre": "Acevedo",
+    "lat": 6.299898,
+    "lng": -75.5585365,
+    "linea": "?"
+  },
+  {
+    "nombre": "Madera",
+    "lat": 6.3159461,
+    "lng": -75.5553044,
+    "linea": "?"
+  },
+  {
+    "nombre": "Itagüí",
+    "lat": 6.1629236,
+    "lng": -75.6067027,
+    "linea": "A"
+  },
+  {
+    "nombre": "Bello",
+    "lat": 6.330022,
+    "lng": -75.553657,
+    "linea": "?"
+  },
+  {
+    "nombre": "Niquía",
+    "lat": 6.3378365,
+    "lng": -75.5442559,
+    "linea": "?"
+  },
+  {
+    "nombre": "Alpujarra",
+    "lat": 6.2429388,
+    "lng": -75.5713859,
+    "linea": "?"
+  },
+  {
+    "nombre": "Madera",
+    "lat": 6.3159419,
+    "lng": -75.5553703,
+    "linea": "?"
+  },
+  {
+    "nombre": "Niquía",
+    "lat": 6.3378718,
+    "lng": -75.544268,
+    "linea": "?"
+  },
+  {
+    "nombre": "Caribe",
+    "lat": 6.2783332,
+    "lng": -75.5694287,
+    "linea": "?"
+  },
+  {
+    "nombre": "Tricentenario",
+    "lat": 6.2903906,
+    "lng": -75.5646875,
+    "linea": "?"
+  },
+  {
+    "nombre": "Industriales",
+    "lat": 6.2300235,
+    "lng": -75.5756518,
+    "linea": "?"
+  },
+  {
+    "nombre": "Prado",
+    "lat": 6.2568731,
+    "lng": -75.5661689,
+    "linea": "?"
+  },
+  {
+    "nombre": "Hospital",
+    "lat": 6.2639339,
+    "lng": -75.5633639,
+    "linea": "?"
+  },
+  {
+    "nombre": "Ayurá",
+    "lat": 6.1860686,
+    "lng": -75.5862103,
+    "linea": "?"
+  },
+  {
+    "nombre": "Aguacatala",
+    "lat": 6.193838,
+    "lng": -75.5818611,
+    "linea": "?"
+  },
+  {
+    "nombre": "Alpujarra",
+    "lat": 6.2429426,
+    "lng": -75.5714198,
+    "linea": "?"
+  },
+  {
+    "nombre": "Bello",
+    "lat": 6.3300472,
+    "lng": -75.5537078,
+    "linea": "?"
+  },
+  {
+    "nombre": "Exposiciones",
+    "lat": 6.2385134,
+    "lng": -75.573149,
+    "linea": "?"
+  },
+  {
+    "nombre": "Envigado",
+    "lat": 6.174748,
+    "lng": -75.5970977,
+    "linea": "?"
+  },
+  {
+    "nombre": "Poblado",
+    "lat": 6.2119599,
+    "lng": -75.5781506,
+    "linea": "?"
+  },
+  {
+    "nombre": "Parque Berrío",
+    "lat": 6.2505476,
+    "lng": -75.5682301,
+    "linea": "?"
+  },
+  {
+    "nombre": "Itagüí",
+    "lat": 6.1629926,
+    "lng": -75.6067247,
+    "linea": "A"
+  },
+  {
+    "nombre": "Acevedo",
+    "lat": 6.2999329,
+    "lng": -75.5586164,
+    "linea": "?"
+  },
+  {
+    "nombre": "San Antonio",
+    "lat": 6.2470367,
+    "lng": -75.569742,
+    "linea": "?"
+  },
+  {
+    "nombre": "San Antonio",
+    "lat": 6.2470535,
+    "lng": -75.5697807,
+    "linea": "?"
+  },
+  {
+    "nombre": "Universidad",
+    "lat": 6.269397,
+    "lng": -75.56581,
+    "linea": "?"
+  },
+  {
+    "nombre": "San Antonio",
+    "lat": 6.2471314,
+    "lng": -75.5695118,
+    "linea": "?"
+  },
+  {
+    "nombre": "Suramericana",
+    "lat": 6.2529657,
+    "lng": -75.5830049,
+    "linea": "?"
+  },
+  {
+    "nombre": "Suramericana",
+    "lat": 6.2530008,
+    "lng": -75.5829968,
+    "linea": "?"
+  },
+  {
+    "nombre": "Estadio",
+    "lat": 6.2533469,
+    "lng": -75.5882332,
+    "linea": "?"
+  },
+  {
+    "nombre": "Estadio",
+    "lat": 6.2533072,
+    "lng": -75.5882356,
+    "linea": "?"
+  },
+  {
+    "nombre": "Floresta",
+    "lat": 6.2586835,
+    "lng": -75.5977565,
+    "linea": "?"
+  },
+  {
+    "nombre": "Floresta",
+    "lat": 6.2587239,
+    "lng": -75.5977499,
+    "linea": "?"
+  },
+  {
+    "nombre": "San Javier",
+    "lat": 6.2569776,
+    "lng": -75.6140461,
+    "linea": "?"
+  },
+  {
+    "nombre": "Santa Lucía",
+    "lat": 6.2580422,
+    "lng": -75.6038204,
+    "linea": "?"
+  },
+  {
+    "nombre": "Santa Lucía",
+    "lat": 6.2580113,
+    "lng": -75.603796,
+    "linea": "?"
+  },
+  {
+    "nombre": "Acevedo",
+    "lat": 6.3003222,
+    "lng": -75.5584139,
+    "linea": "?"
+  },
+  {
+    "nombre": "Popular",
+    "lat": 6.2951611,
+    "lng": -75.5481161,
+    "linea": "?"
+  },
+  {
+    "nombre": "Santo Domingo",
+    "lat": 6.2931308,
+    "lng": -75.5416171,
+    "linea": "?"
+  },
+  {
+    "nombre": "Santo Domingo",
+    "lat": 6.2927426,
+    "lng": -75.541874,
+    "linea": "?"
+  },
+  {
+    "nombre": "Arví",
+    "lat": 6.2815038,
+    "lng": -75.5029613,
+    "linea": "?"
+  },
+  {
+    "nombre": "La Estrella",
+    "lat": 6.1526817,
+    "lng": -75.626453,
+    "linea": "?"
+  },
+  {
+    "nombre": "Sabaneta",
+    "lat": 6.1578108,
+    "lng": -75.6160514,
+    "linea": "A"
+  },
+  {
+    "nombre": "Barrio Colombia",
+    "lat": 6.2286009,
+    "lng": -75.5710294,
+    "linea": "?"
+  },
+  {
+    "nombre": "Hospital",
+    "lat": 6.2629196,
+    "lng": -75.5635109,
+    "linea": "?"
+  },
+  {
+    "nombre": "Prado",
+    "lat": 6.2571511,
+    "lng": -75.5666338,
+    "linea": "?"
+  },
+  {
+    "nombre": "Hospital",
+    "lat": 6.2629454,
+    "lng": -75.5638255,
+    "linea": "?"
+  },
+  {
+    "nombre": "Barrio Colombia",
+    "lat": 6.2287163,
+    "lng": -75.569822,
+    "linea": "?"
+  },
+  {
+    "nombre": "La Estrella",
+    "lat": 6.1526286,
+    "lng": -75.6264256,
+    "linea": "?"
+  },
+  {
+    "nombre": "Carrera 33 Calle 29C",
+    "lat": 6.2281653,
+    "lng": -75.5628902,
+    "linea": "?"
+  },
+  {
+    "nombre": "Carrera 34 Calle 29C",
+    "lat": 6.2294711,
+    "lng": -75.5636434,
+    "linea": "?"
+  },
+  {
+    "nombre": "Carrera 34",
+    "lat": 6.2277428,
+    "lng": -75.5648981,
+    "linea": "?"
+  },
+  {
+    "nombre": "Calle 29 Av. Las Palmas",
+    "lat": 6.2266463,
+    "lng": -75.5640571,
+    "linea": "?"
+  },
+  {
+    "nombre": "Carrera 38 Av. Las Palmas",
+    "lat": 6.2333426,
+    "lng": -75.5669459,
+    "linea": "?"
+  },
+  {
+    "nombre": "Carrera 38 Avenida Las Palmas",
+    "lat": 6.2331761,
+    "lng": -75.5671219,
+    "linea": "?"
+  },
+  {
+    "nombre": "Estación Exposiciones",
+    "lat": 6.2388918,
+    "lng": -75.572875,
+    "linea": "?"
+  },
+  {
+    "nombre": "Bosques de Sandiego",
+    "lat": 6.2260145,
+    "lng": -75.5612103,
+    "linea": "?"
+  },
+  {
+    "nombre": "Sabaneta",
+    "lat": 6.1577868,
+    "lng": -75.6160367,
+    "linea": "A"
+  },
+  {
+    "nombre": "Hospital",
+    "lat": 6.2629391,
+    "lng": -75.5637903,
+    "linea": "?"
+  },
+  {
+    "nombre": "Hospital",
+    "lat": 6.2629489,
+    "lng": -75.5635917,
+    "linea": "?"
+  },
+  {
+    "nombre": "Prado",
+    "lat": 6.2578465,
+    "lng": -75.565616,
+    "linea": "?"
+  },
+  {
+    "nombre": "San Javier",
+    "lat": 6.2570728,
+    "lng": -75.6139874,
+    "linea": "?"
+  },
+  {
+    "nombre": "Prado",
+    "lat": 6.2571507,
+    "lng": -75.5665763,
+    "linea": "?"
+  },
+  {
+    "nombre": "Alimentador Metro",
+    "lat": 6.23544,
+    "lng": -75.5487895,
+    "linea": "?"
+  },
+  {
+    "nombre": "Palos Verdes",
+    "lat": 6.2632506,
+    "lng": -75.5564143,
+    "linea": "?"
+  },
+  {
+    "nombre": "Punto de Atención al Cliente Metro",
+    "lat": 6.1626296,
+    "lng": -75.6077489,
+    "linea": "?"
+  },
+  {
+    "nombre": "?",
+    "lat": 6.2566047,
+    "lng": -75.5665813,
+    "linea": "?"
+  },
+  {
+    "nombre": "Niquía",
+    "lat": 6.3378541,
+    "lng": -75.5442646,
+    "linea": "?"
+  },
+  {
+    "nombre": "Cisneros",
+    "lat": 6.2490691,
+    "lng": -75.5751557,
+    "linea": "?"
+  },
+  {
+    "nombre": "Cisneros",
+    "lat": 6.2490264,
+    "lng": -75.5751627,
+    "linea": "?"
+  },
+  {
+    "nombre": "?",
+    "lat": 6.194704,
+    "lng": -75.5814761,
+    "linea": "?"
+  },
+  {
+    "nombre": "?",
+    "lat": 6.2515678,
+    "lng": -75.567765,
+    "linea": "?"
+  },
+  {
+    "nombre": "?",
+    "lat": 6.2466564,
+    "lng": -75.569843,
+    "linea": "?"
+  },
+  {
+    "nombre": "?",
+    "lat": 6.2564981,
+    "lng": -75.6131578,
+    "linea": "?"
+  },
+  {
+    "nombre": "San Antonio",
+    "lat": 6.2470973,
+    "lng": -75.5695212,
+    "linea": "?"
+  }
+]

@@ -1,0 +1,3881 @@
+[
+  {
+    "id": "osm0001",
+    "nombre": "Presto",
+    "tipo": "gastronomia",
+    "descripcion": "Presto — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.184023,
+      "lng": -75.57869
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "fast_food"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0002",
+    "nombre": "El Corral",
+    "tipo": "gastronomia",
+    "descripcion": "El Corral — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.245003,
+      "lng": -75.595412
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "fast_food"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0003",
+    "nombre": "J&C Delicias",
+    "tipo": "gastronomia",
+    "descripcion": "J&C Delicias — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.208944,
+      "lng": -75.56738
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0004",
+    "nombre": "Triada",
+    "tipo": "gastronomia",
+    "descripcion": "Triada — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.207561,
+      "lng": -75.567997
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "bar"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0005",
+    "nombre": "Discoteca Oz",
+    "tipo": "gastronomia",
+    "descripcion": "Discoteca Oz — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.207613,
+      "lng": -75.56798
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "bar"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0006",
+    "nombre": "Barcelona Restaurante Bar",
+    "tipo": "gastronomia",
+    "descripcion": "Barcelona Restaurante Bar — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.208483,
+      "lng": -75.567783
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "bar"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0007",
+    "nombre": "Thaico",
+    "tipo": "gastronomia",
+    "descripcion": "Thaico — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.208867,
+      "lng": -75.567105
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "bar"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0008",
+    "nombre": "Tropical Cocktails",
+    "tipo": "gastronomia",
+    "descripcion": "Tropical Cocktails — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.209164,
+      "lng": -75.568757
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "bar"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0009",
+    "nombre": "Papa John's",
+    "tipo": "gastronomia",
+    "descripcion": "Papa John's — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.216768,
+      "lng": -75.598279
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "fast_food"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0010",
+    "nombre": "McDonald's",
+    "tipo": "gastronomia",
+    "descripcion": "McDonald's — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.199532,
+      "lng": -75.573911
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "fast_food"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0011",
+    "nombre": "McDonald's",
+    "tipo": "gastronomia",
+    "descripcion": "McDonald's — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.179125,
+      "lng": -75.588128
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "fast_food"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0012",
+    "nombre": "Crepes & Waffles",
+    "tipo": "gastronomia",
+    "descripcion": "Crepes & Waffles — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.245021,
+      "lng": -75.595012
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0013",
+    "nombre": "Crepes & Waffles",
+    "tipo": "gastronomia",
+    "descripcion": "Crepes & Waffles — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.233071,
+      "lng": -75.603634
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0014",
+    "nombre": "J&C Delicias",
+    "tipo": "gastronomia",
+    "descripcion": "J&C Delicias — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.232815,
+      "lng": -75.603599
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0015",
+    "nombre": "Balcones de la 80",
+    "tipo": "gastronomia",
+    "descripcion": "Balcones de la 80 — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.230945,
+      "lng": -75.601664
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0016",
+    "nombre": "Manyare",
+    "tipo": "gastronomia",
+    "descripcion": "Manyare — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.245841,
+      "lng": -75.592195
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0017",
+    "nombre": "Claudio Express Pollos",
+    "tipo": "gastronomia",
+    "descripcion": "Claudio Express Pollos — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.210816,
+      "lng": -75.59522
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0018",
+    "nombre": "Restaurante Antojitos",
+    "tipo": "gastronomia",
+    "descripcion": "Restaurante Antojitos — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.214505,
+      "lng": -75.601978
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0019",
+    "nombre": "Pizzotas",
+    "tipo": "gastronomia",
+    "descripcion": "Pizzotas — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.211086,
+      "lng": -75.595217
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0020",
+    "nombre": "Rincón del Pollo",
+    "tipo": "gastronomia",
+    "descripcion": "Rincón del Pollo — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.214658,
+      "lng": -75.601478
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0021",
+    "nombre": "Restaurante Piedras Blancas",
+    "tipo": "gastronomia",
+    "descripcion": "Restaurante Piedras Blancas — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.311031,
+      "lng": -75.503827
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0022",
+    "nombre": "Kokoriko",
+    "tipo": "gastronomia",
+    "descripcion": "Kokoriko — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.169314,
+      "lng": -75.587363
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "fast_food"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0023",
+    "nombre": "El Cafe de Otraparte",
+    "tipo": "gastronomia",
+    "descripcion": "El Cafe de Otraparte — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.179361,
+      "lng": -75.58409
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "cafe"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0024",
+    "nombre": "Shell Advance",
+    "tipo": "gastronomia",
+    "descripcion": "Shell Advance — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.272837,
+      "lng": -75.557975
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0025",
+    "nombre": "Pollo Broster",
+    "tipo": "gastronomia",
+    "descripcion": "Pollo Broster — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.271709,
+      "lng": -75.558401
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0026",
+    "nombre": "Chapinos",
+    "tipo": "gastronomia",
+    "descripcion": "Chapinos — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.172087,
+      "lng": -75.610719
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "bar"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0027",
+    "nombre": "Hedipan",
+    "tipo": "gastronomia",
+    "descripcion": "Hedipan — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.172153,
+      "lng": -75.610583
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "cafe"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0028",
+    "nombre": "Balcón de Comidas",
+    "tipo": "gastronomia",
+    "descripcion": "food court",
+    "coordenadas": {
+      "lat": 6.250863,
+      "lng": -75.56599
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0029",
+    "nombre": "Le Bon",
+    "tipo": "gastronomia",
+    "descripcion": "french cafe magasin - free wifi",
+    "coordenadas": {
+      "lat": 6.208687,
+      "lng": -75.56808
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "cafe"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0030",
+    "nombre": "Il Forno",
+    "tipo": "gastronomia",
+    "descripcion": "Il Forno — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.20728,
+      "lng": -75.567744
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0031",
+    "nombre": "Pop",
+    "tipo": "gastronomia",
+    "descripcion": "Pop — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.2071,
+      "lng": -75.567656
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "fast_food"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0032",
+    "nombre": "Tinto Tintero",
+    "tipo": "gastronomia",
+    "descripcion": "Tinto Tintero — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.207628,
+      "lng": -75.566784
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "cafe"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0033",
+    "nombre": "Paella & Parrilla",
+    "tipo": "gastronomia",
+    "descripcion": "Paella & Parrilla — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.210283,
+      "lng": -75.572608
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0034",
+    "nombre": "Herbario",
+    "tipo": "gastronomia",
+    "descripcion": "Herbario — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.211749,
+      "lng": -75.572171
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0035",
+    "nombre": "Mondongo's",
+    "tipo": "gastronomia",
+    "descripcion": "Mondongo's — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.209629,
+      "lng": -75.567697
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0036",
+    "nombre": "Zona de Comidas Homecenter",
+    "tipo": "gastronomia",
+    "descripcion": "Zona de Comidas Homecenter — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.248891,
+      "lng": -75.583919
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0037",
+    "nombre": "Baluarte",
+    "tipo": "gastronomia",
+    "descripcion": "Baluarte — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.262872,
+      "lng": -75.596124
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "cafe"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0038",
+    "nombre": "Asados Bartolo",
+    "tipo": "gastronomia",
+    "descripcion": "Asados Bartolo — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.1703,
+      "lng": -75.587759
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0039",
+    "nombre": "Hard Rock Cafe",
+    "tipo": "gastronomia",
+    "descripcion": "Hard Rock Cafe — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.199571,
+      "lng": -75.572352
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0040",
+    "nombre": "La Pizzeria",
+    "tipo": "gastronomia",
+    "descripcion": "La Pizzeria — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.169128,
+      "lng": -75.584793
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "fast_food"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0041",
+    "nombre": "Pancho Villa",
+    "tipo": "gastronomia",
+    "descripcion": "Pancho Villa — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.172085,
+      "lng": -75.584946
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "fast_food"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0042",
+    "nombre": "Melodía para dos",
+    "tipo": "gastronomia",
+    "descripcion": "Melodía para dos — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.170088,
+      "lng": -75.588681
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "bar"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0043",
+    "nombre": "Mega Pizza",
+    "tipo": "gastronomia",
+    "descripcion": "Mega Pizza — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.172874,
+      "lng": -75.584587
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "fast_food"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0044",
+    "nombre": "Yesterday",
+    "tipo": "gastronomia",
+    "descripcion": "Yesterday — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.168576,
+      "lng": -75.588578
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "bar"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0045",
+    "nombre": "Safari",
+    "tipo": "gastronomia",
+    "descripcion": "Safari — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.164939,
+      "lng": -75.585038
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "bar"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0046",
+    "nombre": "Isabella's Place",
+    "tipo": "gastronomia",
+    "descripcion": "Isabella's Place — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.197747,
+      "lng": -75.573267
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0047",
+    "nombre": "AP'Titos",
+    "tipo": "gastronomia",
+    "descripcion": "AP'Titos — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.197528,
+      "lng": -75.573567
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0048",
+    "nombre": "El Corral",
+    "tipo": "gastronomia",
+    "descripcion": "El Corral — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.198968,
+      "lng": -75.574487
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "fast_food"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0049",
+    "nombre": "Chinnese Food",
+    "tipo": "gastronomia",
+    "descripcion": "Chinnese Food — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.171476,
+      "lng": -75.581665
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0050",
+    "nombre": "Piccolo",
+    "tipo": "gastronomia",
+    "descripcion": "Piccolo — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.177478,
+      "lng": -75.584574
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "fast_food"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0051",
+    "nombre": "Soft Touch",
+    "tipo": "gastronomia",
+    "descripcion": "Soft Touch — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.174389,
+      "lng": -75.585592
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0052",
+    "nombre": "Empanadas Envigadeñas",
+    "tipo": "gastronomia",
+    "descripcion": "Empanadas Envigadeñas — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.169474,
+      "lng": -75.587021
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "fast_food"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0053",
+    "nombre": "La Bombonera",
+    "tipo": "gastronomia",
+    "descripcion": "La Bombonera — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.168577,
+      "lng": -75.588087
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "fast_food"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0054",
+    "nombre": "Cinecolombia Unicentro",
+    "tipo": "cultura",
+    "descripcion": "Cinecolombia Unicentro — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.24078,
+      "lng": -75.586305
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "cinema"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0055",
+    "nombre": "Cinecolombia Los Molinos",
+    "tipo": "cultura",
+    "descripcion": "Cinecolombia Los Molinos — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.232363,
+      "lng": -75.603994
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "cinema"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0056",
+    "nombre": "Cinemark El Tesoro",
+    "tipo": "cultura",
+    "descripcion": "Cinemark El Tesoro — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.198122,
+      "lng": -75.558849
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "cinema"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0057",
+    "nombre": "CineColombia Oviedo",
+    "tipo": "cultura",
+    "descripcion": "CineColombia Oviedo — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.199855,
+      "lng": -75.575692
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "cinema"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0058",
+    "nombre": "Lido",
+    "tipo": "cultura",
+    "descripcion": "Lido — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.252245,
+      "lng": -75.564447
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "theatre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0059",
+    "nombre": "Multicine Jumbo 65 - Royal Films",
+    "tipo": "cultura",
+    "descripcion": "Multicine Jumbo 65 - Royal Films — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.252266,
+      "lng": -75.585228
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "cinema"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0060",
+    "nombre": "Cinema Vizcaya",
+    "tipo": "cultura",
+    "descripcion": "Cinema Vizcaya — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.207947,
+      "lng": -75.563077
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "cinema"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0061",
+    "nombre": "Teatro Envigado",
+    "tipo": "cultura",
+    "descripcion": "Teatro Envigado — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.169978,
+      "lng": -75.588703
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "theatre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0062",
+    "nombre": "José Félix de Restrepo",
+    "tipo": "cultura",
+    "descripcion": "José Félix de Restrepo — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.171095,
+      "lng": -75.586223
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "library"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0063",
+    "nombre": "Biblioteca Pública Comfenalco Castilla",
+    "tipo": "cultura",
+    "descripcion": "Biblioteca Pública Comfenalco Castilla — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.289866,
+      "lng": -75.57029
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "library"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0064",
+    "nombre": "Centro Cultural de Moravia",
+    "tipo": "cultura",
+    "descripcion": "Centro Cultural de Moravia — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.275414,
+      "lng": -75.562553
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "library"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0065",
+    "nombre": "Casa Tres Patios",
+    "tipo": "cultura",
+    "descripcion": "Casa Tres Patios — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.260617,
+      "lng": -75.562243
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "arts_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0066",
+    "nombre": "Biblioteca Escolar I. E. José Horacio Betancur",
+    "tipo": "cultura",
+    "descripcion": "Biblioteca Escolar I. E. José Horacio Betancur — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.274693,
+      "lng": -75.627723
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "library"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0067",
+    "nombre": "Fractal Teatro",
+    "tipo": "cultura",
+    "descripcion": "Fractal Teatro — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.249906,
+      "lng": -75.560219
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "theatre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0068",
+    "nombre": "Teatro El Trueque",
+    "tipo": "cultura",
+    "descripcion": "Teatro El Trueque — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.246982,
+      "lng": -75.559759
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "theatre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0069",
+    "nombre": "Teatro Matacandelas",
+    "tipo": "cultura",
+    "descripcion": "Teatro Matacandelas — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.244509,
+      "lng": -75.564585
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "theatre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0070",
+    "nombre": "Biblioteca Público Escolar Popular No.2",
+    "tipo": "cultura",
+    "descripcion": "Biblioteca Público Escolar Popular No.2 — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.302369,
+      "lng": -75.547063
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "library"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0071",
+    "nombre": "Mata Candelas",
+    "tipo": "cultura",
+    "descripcion": "Mata Candelas — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.244913,
+      "lng": -75.564802
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "arts_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0072",
+    "nombre": "Salon Social El Avila",
+    "tipo": "cultura",
+    "descripcion": "Salon Social El Avila — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.233358,
+      "lng": -75.557226
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "arts_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0073",
+    "nombre": "Biblioteca Nadino",
+    "tipo": "cultura",
+    "descripcion": "Biblioteca Nadino — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.234113,
+      "lng": -75.527398
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "library"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0074",
+    "nombre": "Parque Biblioteca San Cristóbal",
+    "tipo": "cultura",
+    "descripcion": "Parque Biblioteca San Cristóbal — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.277918,
+      "lng": -75.636971
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "library"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0075",
+    "nombre": "Auditorio Máximum",
+    "tipo": "cultura",
+    "descripcion": "Auditorio Máximum — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.166688,
+      "lng": -75.630986
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "theatre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0076",
+    "nombre": "La Fanfarria (Títeres)",
+    "tipo": "cultura",
+    "descripcion": "La Fanfarria (Títeres) — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.249194,
+      "lng": -75.604857
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "theatre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0077",
+    "nombre": "Casa de la Cultura Pedregal",
+    "tipo": "cultura",
+    "descripcion": "Casa de la Cultura Pedregal — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.300472,
+      "lng": -75.574149
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "arts_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0078",
+    "nombre": "Biblioteca Pública Piloto",
+    "tipo": "cultura",
+    "descripcion": "Biblioteca Pública Piloto — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.300558,
+      "lng": -75.574258
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "library"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0079",
+    "nombre": "Pequeño Teatro",
+    "tipo": "cultura",
+    "descripcion": "Pequeño Teatro — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.247476,
+      "lng": -75.561653
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "theatre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0080",
+    "nombre": "Colombo Americano",
+    "tipo": "cultura",
+    "descripcion": "Colombo Americano — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.249734,
+      "lng": -75.562724
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "cinema"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0081",
+    "nombre": "Casa de la Cultura Poblado",
+    "tipo": "cultura",
+    "descripcion": "Casa de la Cultura Poblado — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.190703,
+      "lng": -75.578669
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "arts_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0082",
+    "nombre": "Escuela Red de Música",
+    "tipo": "cultura",
+    "descripcion": "Escuela Red de Música — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.190681,
+      "lng": -75.578607
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "arts_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0083",
+    "nombre": "Teatro al aire libre Pedregal",
+    "tipo": "cultura",
+    "descripcion": "Teatro al aire libre Pedregal — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.302517,
+      "lng": -75.571553
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "arts_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0084",
+    "nombre": "Parque de Cristo Rey",
+    "tipo": "naturaleza",
+    "descripcion": "Parque de Cristo Rey — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.207281,
+      "lng": -75.586379
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "park"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0085",
+    "nombre": "el alto",
+    "tipo": "naturaleza",
+    "descripcion": "el alto — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.272204,
+      "lng": -75.625285
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "nature_reserve"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0086",
+    "nombre": "Canalización La Mota",
+    "tipo": "naturaleza",
+    "descripcion": "Canalización La Mota — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.215916,
+      "lng": -75.59778
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "park"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0087",
+    "nombre": "parque",
+    "tipo": "naturaleza",
+    "descripcion": "parque — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.297008,
+      "lng": -75.536581
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "park"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0088",
+    "nombre": "Huerta Colegio",
+    "tipo": "naturaleza",
+    "descripcion": "Huerta Colegio — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.297957,
+      "lng": -75.537726
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "garden"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0089",
+    "nombre": "Parque De La Cancha",
+    "tipo": "naturaleza",
+    "descripcion": "Parque De La Cancha — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.290822,
+      "lng": -75.544949
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "park"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0090",
+    "nombre": "Parque Infantil",
+    "tipo": "naturaleza",
+    "descripcion": "Parque Infantil — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.290477,
+      "lng": -75.540829
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "park"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0091",
+    "nombre": "Parque de las Esculturas",
+    "tipo": "naturaleza",
+    "descripcion": "Parque de las Esculturas — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.235348,
+      "lng": -75.58104
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "park"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0092",
+    "nombre": "Vivero Francisco Antonio Zea",
+    "tipo": "naturaleza",
+    "descripcion": "Vivero Francisco Antonio Zea — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.285349,
+      "lng": -75.57564
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "garden"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0093",
+    "nombre": "PARQUE DE ARBOLES",
+    "tipo": "naturaleza",
+    "descripcion": "PARQUE DE ARBOLES — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.264319,
+      "lng": -75.542062
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "park"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0094",
+    "nombre": "QUEBRADA LA OSPINA",
+    "tipo": "naturaleza",
+    "descripcion": "QUEBRADA LA OSPINA, PASA POR LA FERRERIA, TOLEDO Y SURAMERICA",
+    "coordenadas": {
+      "lat": 6.1622,
+      "lng": -75.646311
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "park"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0095",
+    "nombre": "Universidad Católica Luis Amigó",
+    "tipo": "naturaleza",
+    "descripcion": "Universidad Católica Luis Amigó — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.259077,
+      "lng": -75.58379
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "park"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0096",
+    "nombre": "parque",
+    "tipo": "naturaleza",
+    "descripcion": "parque — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.297688,
+      "lng": -75.572957
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "park"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0097",
+    "nombre": "zona verde",
+    "tipo": "naturaleza",
+    "descripcion": "zona verde — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.228894,
+      "lng": -75.604969
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "park"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0098",
+    "nombre": "Parque de San Antonio",
+    "tipo": "naturaleza",
+    "descripcion": "Parque de San Antonio — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.201493,
+      "lng": -75.590621
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "park"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0099",
+    "nombre": "Park",
+    "tipo": "naturaleza",
+    "descripcion": "Park — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.269025,
+      "lng": -75.550912
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "park"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0100",
+    "nombre": "Park",
+    "tipo": "naturaleza",
+    "descripcion": "Park — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.268983,
+      "lng": -75.551407
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "park"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0101",
+    "nombre": "zona verde",
+    "tipo": "naturaleza",
+    "descripcion": "zona verde — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.255631,
+      "lng": -75.590385
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "park"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0102",
+    "nombre": "zona verde",
+    "tipo": "naturaleza",
+    "descripcion": "zona verde — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.256432,
+      "lng": -75.59129
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "park"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0103",
+    "nombre": "zona verde",
+    "tipo": "naturaleza",
+    "descripcion": "zona verde — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.25536,
+      "lng": -75.590341
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "park"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0104",
+    "nombre": "Cultivo de zanahorias doña Hortencia",
+    "tipo": "naturaleza",
+    "descripcion": "Cultivo de zanahorias doña Hortencia — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.194087,
+      "lng": -75.515974
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "garden"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0105",
+    "nombre": "Cultivo de zanahorias doña Hortencia",
+    "tipo": "naturaleza",
+    "descripcion": "Cultivo de zanahorias doña Hortencia — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.193579,
+      "lng": -75.51755
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "garden"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0106",
+    "nombre": "Cultivo de zanahorias doña Hortencia",
+    "tipo": "naturaleza",
+    "descripcion": "Cultivo de zanahorias doña Hortencia — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.192902,
+      "lng": -75.516139
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "garden"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0107",
+    "nombre": "Cinecolombia Unicentro",
+    "tipo": "entretenimiento",
+    "descripcion": "Cinecolombia Unicentro — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.24078,
+      "lng": -75.586305
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "cinema"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0108",
+    "nombre": "Cinecolombia Los Molinos",
+    "tipo": "entretenimiento",
+    "descripcion": "Cinecolombia Los Molinos — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.232363,
+      "lng": -75.603994
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "cinema"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0109",
+    "nombre": "Cinemark El Tesoro",
+    "tipo": "entretenimiento",
+    "descripcion": "Cinemark El Tesoro — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.198122,
+      "lng": -75.558849
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "cinema"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0110",
+    "nombre": "CineColombia Oviedo",
+    "tipo": "entretenimiento",
+    "descripcion": "CineColombia Oviedo — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.199855,
+      "lng": -75.575692
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "cinema"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0111",
+    "nombre": "Multicine Jumbo 65 - Royal Films",
+    "tipo": "entretenimiento",
+    "descripcion": "Multicine Jumbo 65 - Royal Films — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.252266,
+      "lng": -75.585228
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "cinema"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0112",
+    "nombre": "Cinema Vizcaya",
+    "tipo": "entretenimiento",
+    "descripcion": "Cinema Vizcaya — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.207947,
+      "lng": -75.563077
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "cinema"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0113",
+    "nombre": "Placa deportiva Sector Miranda",
+    "tipo": "entretenimiento",
+    "descripcion": "Placa deportiva Sector Miranda — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.176779,
+      "lng": -75.613429
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "sports_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0114",
+    "nombre": "cancha deportiva Loma de los Zuleta",
+    "tipo": "entretenimiento",
+    "descripcion": "cancha deportiva Loma de los Zuleta — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.177209,
+      "lng": -75.61528
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "sports_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0115",
+    "nombre": "El blue",
+    "tipo": "entretenimiento",
+    "descripcion": "El blue — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.210696,
+      "lng": -75.567896
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "nightclub"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0116",
+    "nombre": "Red",
+    "tipo": "entretenimiento",
+    "descripcion": "Red — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.210229,
+      "lng": -75.568
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "nightclub"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0117",
+    "nombre": "El templo del Fútbol",
+    "tipo": "entretenimiento",
+    "descripcion": "El templo del Fútbol — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.182795,
+      "lng": -75.586119
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "sports_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0118",
+    "nombre": "Señor Gol",
+    "tipo": "entretenimiento",
+    "descripcion": "Señor Gol — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.181654,
+      "lng": -75.587052
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "sports_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0119",
+    "nombre": "Envigol",
+    "tipo": "entretenimiento",
+    "descripcion": "Envigol — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.164684,
+      "lng": -75.59837
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "sports_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0120",
+    "nombre": "Baranova Discoteka",
+    "tipo": "entretenimiento",
+    "descripcion": "Baranova Discoteka — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.278946,
+      "lng": -75.635036
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "nightclub"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0121",
+    "nombre": "Discoteca Camelot",
+    "tipo": "entretenimiento",
+    "descripcion": "Discoteca Camelot — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.278996,
+      "lng": -75.635059
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "nightclub"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0122",
+    "nombre": "Canchas Sintéticas",
+    "tipo": "entretenimiento",
+    "descripcion": "Canchas Sintéticas — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.252287,
+      "lng": -75.574216
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "sports_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0123",
+    "nombre": "Greenfit Sports Las Vegas",
+    "tipo": "entretenimiento",
+    "descripcion": "Greenfit Sports Las Vegas — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.182476,
+      "lng": -75.585672
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "sports_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0124",
+    "nombre": "Curves",
+    "tipo": "entretenimiento",
+    "descripcion": "Curves — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.182383,
+      "lng": -75.585597
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "sports_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  },
+  {
+    "id": "osm0125",
+    "nombre": "Greenfit Envigado",
+    "tipo": "entretenimiento",
+    "descripcion": "Greenfit Envigado — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.178562,
+      "lng": -75.584252
+    },
+    "barrio": "",
+    "comuna": "",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "sports_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.5,
+    "fuente": "OpenStreetMap"
+  }
+]

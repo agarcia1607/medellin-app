@@ -1,0 +1,128 @@
+{
+  "altavista": {
+    "total_empresas": 1029,
+    "nivel_actividad": "bajo",
+    "anio": "2022",
+    "fuente": "datos.gov.co/pb3w-3vmc"
+  },
+  "aranjuez": {
+    "total_empresas": 4330,
+    "nivel_actividad": "alto",
+    "anio": "2022",
+    "fuente": "datos.gov.co/pb3w-3vmc"
+  },
+  "belen": {
+    "total_empresas": 10090,
+    "nivel_actividad": "muy_alto",
+    "anio": "2022",
+    "fuente": "datos.gov.co/pb3w-3vmc"
+  },
+  "buenos_aires": {
+    "total_empresas": 3977,
+    "nivel_actividad": "alto",
+    "anio": "2022",
+    "fuente": "datos.gov.co/pb3w-3vmc"
+  },
+  "castilla": {
+    "total_empresas": 3396,
+    "nivel_actividad": "alto",
+    "anio": "2022",
+    "fuente": "datos.gov.co/pb3w-3vmc"
+  },
+  "doce_de_octubre": {
+    "total_empresas": 2490,
+    "nivel_actividad": "medio",
+    "anio": "2022",
+    "fuente": "datos.gov.co/pb3w-3vmc"
+  },
+  "el_poblado": {
+    "total_empresas": 20550,
+    "nivel_actividad": "muy_alto",
+    "anio": "2022",
+    "fuente": "datos.gov.co/pb3w-3vmc"
+  },
+  "guayabal": {
+    "total_empresas": 5884,
+    "nivel_actividad": "muy_alto",
+    "anio": "2022",
+    "fuente": "datos.gov.co/pb3w-3vmc"
+  },
+  "la_america": {
+    "total_empresas": 4713,
+    "nivel_actividad": "alto",
+    "anio": "2022",
+    "fuente": "datos.gov.co/pb3w-3vmc"
+  },
+  "la_candelaria": {
+    "total_empresas": 22912,
+    "nivel_actividad": "muy_alto",
+    "anio": "2022",
+    "fuente": "datos.gov.co/pb3w-3vmc"
+  },
+  "laureles_estadio": {
+    "total_empresas": 11247,
+    "nivel_actividad": "muy_alto",
+    "anio": "2022",
+    "fuente": "datos.gov.co/pb3w-3vmc"
+  },
+  "manrique": {
+    "total_empresas": 2271,
+    "nivel_actividad": "medio",
+    "anio": "2022",
+    "fuente": "datos.gov.co/pb3w-3vmc"
+  },
+  "palmitas": {
+    "total_empresas": 55,
+    "nivel_actividad": "bajo",
+    "anio": "2022",
+    "fuente": "datos.gov.co/pb3w-3vmc"
+  },
+  "popular": {
+    "total_empresas": 1416,
+    "nivel_actividad": "bajo",
+    "anio": "2022",
+    "fuente": "datos.gov.co/pb3w-3vmc"
+  },
+  "robledo": {
+    "total_empresas": 3604,
+    "nivel_actividad": "alto",
+    "anio": "2022",
+    "fuente": "datos.gov.co/pb3w-3vmc"
+  },
+  "san_antonio_de_prado": {
+    "total_empresas": 1873,
+    "nivel_actividad": "medio",
+    "anio": "2022",
+    "fuente": "datos.gov.co/pb3w-3vmc"
+  },
+  "san_cristobal": {
+    "total_empresas": 1325,
+    "nivel_actividad": "bajo",
+    "anio": "2022",
+    "fuente": "datos.gov.co/pb3w-3vmc"
+  },
+  "san_javier": {
+    "total_empresas": 2440,
+    "nivel_actividad": "medio",
+    "anio": "2022",
+    "fuente": "datos.gov.co/pb3w-3vmc"
+  },
+  "santa_cruz": {
+    "total_empresas": 1637,
+    "nivel_actividad": "bajo",
+    "anio": "2022",
+    "fuente": "datos.gov.co/pb3w-3vmc"
+  },
+  "santa_elena": {
+    "total_empresas": 1412,
+    "nivel_actividad": "bajo",
+    "anio": "2022",
+    "fuente": "datos.gov.co/pb3w-3vmc"
+  },
+  "villa_hermosa": {
+    "total_empresas": 3052,
+    "nivel_actividad": "medio",
+    "anio": "2022",
+    "fuente": "datos.gov.co/pb3w-3vmc"
+  }
+}

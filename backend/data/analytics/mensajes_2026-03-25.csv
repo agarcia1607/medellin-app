@@ -1,0 +1,10 @@
+mensaje_id,session_id,timestamp,rol,longitud_texto,idioma_detectado,paso_flujo
+de7d0a0c-81d0-4108-aa9d-8de66806c488,ba477967-09b1-4adf-be5a-ced93cf7727f,2026-03-25T19:57:52,usuario,46,es,perfilado
+b3d06caf-7acb-44c9-97b0-ec0100d4ddf9,c4169ada-2fd6-4440-bba4-78b3b291008f,2026-03-25T19:59:26,usuario,31,es,perfilado
+78c38b90-b9ab-4110-a4fc-88b275864c14,4be3e6ec-680d-4aed-b8c4-222fd9a2fe9e,2026-03-25T20:23:08,usuario,29,es,perfilado
+1397f4b6-7478-4059-a23c-200e3fb2d53b,08b414b5-fba3-411b-b72c-aabfde0ee4e1,2026-03-25T20:28:27,usuario,21,es,perfilado
+193bfc30-95fc-43ea-aca5-ae4a58b86412,08b414b5-fba3-411b-b72c-aabfde0ee4e1,2026-03-25T20:28:30,asistente,281,,perfilado
+968b3636-caf7-4794-9e61-d533c11ec5d0,08b414b5-fba3-411b-b72c-aabfde0ee4e1,2026-03-25T20:33:51,usuario,7,es,perfilado
+5c682e22-1f56-4042-a6ad-7e8178d921b5,08b414b5-fba3-411b-b72c-aabfde0ee4e1,2026-03-25T20:33:54,asistente,81,,perfilado
+84209eff-8467-41e4-a037-ec3cbc9ec6b9,08b414b5-fba3-411b-b72c-aabfde0ee4e1,2026-03-25T20:34:06,usuario,6,es,perfilado
+f0fb0eff-1b89-4d83-8ebc-bbf2b7e3796c,08b414b5-fba3-411b-b72c-aabfde0ee4e1,2026-03-25T20:34:08,asistente,17,,perfilado

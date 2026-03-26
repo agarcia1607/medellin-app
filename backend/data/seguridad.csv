@@ -1,0 +1,16 @@
+lugar_id,nombre,barrio,nivel_seguridad,nivel_seguridad_noche,recomendacion_horario,incidencias_mensuales,iluminacion,patrullaje,nota
+p001,Parque Arví,Santa Elena,alto,medio,no_visitar_de_noche,2,media,esporadico,Ir en grupos o tour organizado
+p002,Museo de Antioquia,Centro,medio,bajo,solo_diurno,8,alta,regular,El centro mejora en horas de oficina
+p003,Jardín Botánico,Aranjuez,alto,medio,preferiblemente_diurno,1,alta,constante,Zona muy segura y vigilada
+p004,Parque Lleras,El Poblado,alto,medio,precaucion_madrugada,5,muy_alta,constante,Zona turística bien vigilada
+p005,Pueblito Paisa,Nutibara,alto,bajo,solo_diurno,2,media,regular,Evitar después de las 7pm
+p006,Plaza Botero,Centro,medio,bajo,solo_diurno,12,alta,regular,Precaución con artículos de valor
+p007,Mercado del Río,Ciudad del Río,muy_alto,alto,cualquier_horario,0,muy_alta,privada,Zona privada muy segura
+p008,Parque de los Deseos,Aranjuez,alto,medio,hasta_las_10pm,3,alta,constante,Bien iluminado y vigilado
+p009,Laureles Gastronómico,Laureles,muy_alto,alto,cualquier_horario,1,muy_alta,constante,Barrio residencial seguro
+p010,Casa de la Memoria,La Candelaria,medio,bajo,solo_diurno,6,alta,regular,Zona institucional segura de día
+p011,Parque El Salado,Envigado,alto,bajo,no_visitar_de_noche,1,baja,esporadico,Municipio de Envigado con baja incidencia
+p012,CC El Tesoro,El Poblado,muy_alto,alto,cualquier_horario,0,muy_alta,privada,Centro comercial con seguridad privada
+p013,Biblioteca España,Popular,medio,bajo,solo_diurno,4,alta,constante,La biblioteca es segura pero el sector requiere atención
+p014,Café Zorba,El Poblado,muy_alto,alto,cualquier_horario,0,muy_alta,constante,El Poblado zona muy segura
+p015,Estadio Atanasio,Laureles,medio,bajo,precaucion_dia_partido,10,alta,reforzada_partidos,Días de partido requieren precaución adicional

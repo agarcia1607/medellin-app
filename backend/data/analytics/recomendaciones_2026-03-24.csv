@@ -1,0 +1,7 @@
+recomendacion_id,session_id,perfil_id,timestamp,lugar_nombre,lugar_tipo,lugar_comuna,score,posicion,clima_impacto,tiene_metro_cercano
+6c0fdfc2-eee3-4dca-964f-da1592491224,e8b00e32-2442-4f33-b09e-0caad915a8b4,,2026-03-24T12:21:07,El templo del Fútbol,,,9.35,1,Condiciones perfectas para actividades deportivas al aire libre,True
+7978d53c-3be9-477f-96ff-287c158147e4,e8b00e32-2442-4f33-b09e-0caad915a8b4,,2026-03-24T12:21:07,Envigol,,,9.14,2,Condiciones perfectas para actividades deportivas al aire libre,True
+3a5c294d-7aea-4e25-a062-19c6c0d1b243,e8b00e32-2442-4f33-b09e-0caad915a8b4,,2026-03-24T12:21:07,Estadio Atanasio Girardot,,,8.6,3,Condiciones perfectas para actividades deportivas al aire libre,True
+01e2595e-784b-4fc3-98cc-5245bd95ff2b,e8b00e32-2442-4f33-b09e-0caad915a8b4,,2026-03-24T12:23:30,El templo del Fútbol,,,9.35,1,Condiciones favorables para actividades nocturnas cubiertas o semicubiertas,True
+0ce3a95a-3ec7-4fbc-8187-38e35f66b884,e8b00e32-2442-4f33-b09e-0caad915a8b4,,2026-03-24T12:23:30,Envigol,,,9.14,2,Condiciones favorables para actividades nocturnas cubiertas o semicubiertas,True
+becf2289-163d-4a28-842d-19e4818567bf,e8b00e32-2442-4f33-b09e-0caad915a8b4,,2026-03-24T12:23:30,Estadio Atanasio Girardot,,,8.6,3,Condiciones favorables para actividades nocturnas cubiertas o semicubiertas,True

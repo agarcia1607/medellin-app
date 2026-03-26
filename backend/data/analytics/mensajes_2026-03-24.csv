@@ -1,0 +1,7 @@
+mensaje_id,session_id,timestamp,rol,longitud_texto,idioma_detectado,paso_flujo
+57471b83-094c-40f3-8ec9-69d8d00b1676,e8b00e32-2442-4f33-b09e-0caad915a8b4,2026-03-24T12:20:06,usuario,46,es,perfilado
+3ecea0c9-8680-4eb0-860a-5f8c5040e067,e8b00e32-2442-4f33-b09e-0caad915a8b4,2026-03-24T12:20:12,asistente,226,,perfilado
+079f5087-2ba3-4f6a-81a6-e9204fdad90b,e8b00e32-2442-4f33-b09e-0caad915a8b4,2026-03-24T12:20:21,usuario,5,es,perfilado
+c8fa423d-7adb-4b55-857e-081371acf0a6,e8b00e32-2442-4f33-b09e-0caad915a8b4,2026-03-24T12:20:23,asistente,17,,perfilado
+3dc85254-4191-4ae8-acc7-628e93d4cda2,e8b00e32-2442-4f33-b09e-0caad915a8b4,2026-03-24T12:22:31,usuario,54,es,perfilado
+85629506-2524-446e-8981-4a6e7114670e,e8b00e32-2442-4f33-b09e-0caad915a8b4,2026-03-24T12:22:36,asistente,17,,perfilado

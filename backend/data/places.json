@@ -1,0 +1,4268 @@
+[
+  {
+    "id": "p001",
+    "nombre": "Parque Arví",
+    "tipo": "naturaleza",
+    "descripcion": "Reserva natural en las montañas del oriente antioqueño, ideal para senderismo y ecoturismo.",
+    "coordenadas": {
+      "lat": 6.2731,
+      "lng": -75.4997
+    },
+    "barrio": "Santa Elena",
+    "comuna": null,
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "senderismo",
+      "aire_libre",
+      "metro_cable"
+    ],
+    "precio_promedio": "bajo",
+    "score_base": 8.6,
+    "fuente": "curado",
+    "accesibilidad": {
+      "estacion_metro": "Arví",
+      "distancia_metro_m": 1002,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "p002",
+    "nombre": "Museo de Antioquia",
+    "tipo": "cultura",
+    "descripcion": "Museo con la mayor colección de obras de Fernando Botero en Colombia, arte y cultura regional.",
+    "coordenadas": {
+      "lat": 6.2518,
+      "lng": -75.5636
+    },
+    "barrio": "Centro",
+    "comuna": "La Candelaria",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "solo",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "arte",
+      "cultura",
+      "botero",
+      "historia",
+      "lluvia_ok"
+    ],
+    "precio_promedio": "bajo",
+    "score_base": 9.1,
+    "fuente": "curado",
+    "accesibilidad": {
+      "estacion_metro": "?",
+      "distancia_metro_m": 461,
+      "bonus_metro": 0.3,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "p003",
+    "nombre": "Jardín Botánico Joaquín Antonio Uribe",
+    "tipo": "naturaleza",
+    "descripcion": "Espacio verde con orquídeas, mariposas y el famoso Orquideorama. Perfecto para relajarse.",
+    "coordenadas": {
+      "lat": 6.2681,
+      "lng": -75.5659
+    },
+    "barrio": "Aranjuez",
+    "comuna": "Aranjuez",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "plantas",
+      "fotografía",
+      "tranquilo"
+    ],
+    "precio_promedio": "bajo",
+    "score_base": 9.0,
+    "fuente": "curado",
+    "accesibilidad": {
+      "estacion_metro": "Universidad",
+      "distancia_metro_m": 145,
+      "bonus_metro": 0.4,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "p004",
+    "nombre": "El Poblado — Parque Lleras",
+    "tipo": "entretenimiento",
+    "descripcion": "El epicentro de la vida nocturna de Medellín, rodeado de bares, restaurantes y cafés.",
+    "coordenadas": {
+      "lat": 6.2097,
+      "lng": -75.568
+    },
+    "barrio": "El Poblado",
+    "comuna": "El Poblado",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [
+      "menores_no_recomendado_noche"
+    ],
+    "tags": [
+      "rumba",
+      "bares",
+      "restaurantes",
+      "vida_nocturna"
+    ],
+    "precio_promedio": "alto",
+    "score_base": 8.3,
+    "fuente": "curado",
+    "accesibilidad": {
+      "estacion_metro": "Poblado",
+      "distancia_metro_m": 1145,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "p005",
+    "nombre": "Pueblito Paisa",
+    "tipo": "cultura",
+    "descripcion": "Réplica de un pueblo antioqueño tradicional en el cerro Nutibara, con vista panorámica.",
+    "coordenadas": {
+      "lat": 6.2372,
+      "lng": -75.5849
+    },
+    "barrio": "Nutibara",
+    "comuna": "Laureles",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "turista",
+      "pareja"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "vista_panoramica",
+      "fotografía",
+      "tradicion"
+    ],
+    "precio_promedio": "gratis",
+    "score_base": 8.1,
+    "fuente": "curado",
+    "accesibilidad": {
+      "estacion_metro": "Industriales",
+      "distancia_metro_m": 1297,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "p006",
+    "nombre": "Plaza Botero",
+    "tipo": "cultura",
+    "descripcion": "Plaza con 23 esculturas monumentales de Fernando Botero en el corazón del centro.",
+    "coordenadas": {
+      "lat": 6.2519,
+      "lng": -75.5645
+    },
+    "barrio": "Centro",
+    "comuna": "La Candelaria",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "turista",
+      "pareja",
+      "solo"
+    ],
+    "restricciones": [
+      "precaucion_nocturna"
+    ],
+    "tags": [
+      "arte",
+      "escultura",
+      "botero",
+      "fotografía",
+      "gratis"
+    ],
+    "precio_promedio": "gratis",
+    "score_base": 8.7,
+    "fuente": "curado",
+    "accesibilidad": {
+      "estacion_metro": "?",
+      "distancia_metro_m": 363,
+      "bonus_metro": 0.3,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "p007",
+    "nombre": "Mercado del Río",
+    "tipo": "gastronomia",
+    "descripcion": "Mercado gastronómico con más de 40 propuestas culinarias, cervezas artesanales y ambiente animado.",
+    "coordenadas": {
+      "lat": 6.2449,
+      "lng": -75.5736
+    },
+    "barrio": "Ciudad del Río",
+    "comuna": "La América",
+    "cubierto": true,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "turista",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "cerveza",
+      "mercado",
+      "lluvia_ok",
+      "variado"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 9.0,
+    "fuente": "curado",
+    "accesibilidad": {
+      "estacion_metro": "Alpujarra",
+      "distancia_metro_m": 325,
+      "bonus_metro": 0.3,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "p008",
+    "nombre": "Parque de los Deseos",
+    "tipo": "entretenimiento",
+    "descripcion": "Parque interactivo junto al Planetario, ideal para familias. Cerca de la estación Acevedo.",
+    "coordenadas": {
+      "lat": 6.2711,
+      "lng": -75.5635
+    },
+    "barrio": "Aranjuez",
+    "comuna": "Aranjuez",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos"
+    ],
+    "restricciones": [],
+    "tags": [
+      "ciencia",
+      "entretenimiento",
+      "metro",
+      "familia"
+    ],
+    "precio_promedio": "bajo",
+    "score_base": 8.3,
+    "fuente": "curado",
+    "accesibilidad": {
+      "estacion_metro": "Universidad",
+      "distancia_metro_m": 315,
+      "bonus_metro": 0.3,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "p009",
+    "nombre": "Laureles — Corredor gastronómico",
+    "tipo": "gastronomia",
+    "descripcion": "Restaurantes, cafés y terrazas. Ambiente más tranquilo que Parque Lleras.",
+    "coordenadas": {
+      "lat": 6.235,
+      "lng": -75.59
+    },
+    "barrio": "Laureles",
+    "comuna": "Laureles",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "cafes",
+      "tranquilo",
+      "local"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.4,
+    "fuente": "curado",
+    "accesibilidad": {
+      "estacion_metro": "Industriales",
+      "distancia_metro_m": 1680,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "p010",
+    "nombre": "Museo Casa de la Memoria",
+    "tipo": "cultura",
+    "descripcion": "Museo dedicado a las víctimas del conflicto armado. Espacio de reflexión y memoria histórica.",
+    "coordenadas": {
+      "lat": 6.2505,
+      "lng": -75.5621
+    },
+    "barrio": "Villa Nueva",
+    "comuna": "La Candelaria",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [
+      "no_recomendado_niños_pequeños"
+    ],
+    "tags": [
+      "historia",
+      "cultura",
+      "reflexion",
+      "lluvia_ok",
+      "gratis"
+    ],
+    "precio_promedio": "gratis",
+    "score_base": 9.1,
+    "fuente": "curado",
+    "accesibilidad": {
+      "estacion_metro": "?",
+      "distancia_metro_m": 637,
+      "bonus_metro": 0.2,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "p011",
+    "nombre": "Envigado — Parque El Salado",
+    "tipo": "naturaleza",
+    "descripcion": "Parque ecológico con cascadas, senderos y zonas de picnic a 20 minutos del centro de Envigado.",
+    "coordenadas": {
+      "lat": 6.167,
+      "lng": -75.574
+    },
+    "barrio": "El Salado",
+    "comuna": null,
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "amigos",
+      "pareja"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "cascadas",
+      "senderismo",
+      "picnic"
+    ],
+    "precio_promedio": "bajo",
+    "score_base": 8.1,
+    "fuente": "curado",
+    "accesibilidad": {
+      "estacion_metro": "Ayurá",
+      "distancia_metro_m": 2508,
+      "bonus_metro": 0.0,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "p012",
+    "nombre": "Centro Comercial El Tesoro",
+    "tipo": "entretenimiento",
+    "descripcion": "Centro comercial al aire libre en El Poblado con tiendas, restaurantes y vistas a la ciudad.",
+    "coordenadas": {
+      "lat": 6.199,
+      "lng": -75.562
+    },
+    "barrio": "El Poblado",
+    "comuna": "El Poblado",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos"
+    ],
+    "restricciones": [],
+    "tags": [
+      "compras",
+      "restaurantes",
+      "vista",
+      "familiar"
+    ],
+    "precio_promedio": "alto",
+    "score_base": 8.0,
+    "fuente": "curado",
+    "accesibilidad": {
+      "estacion_metro": "?",
+      "distancia_metro_m": 2205,
+      "bonus_metro": 0.0,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "p013",
+    "nombre": "Biblioteca España",
+    "tipo": "cultura",
+    "descripcion": "Ícono del urbanismo social de Medellín. Vista espectacular desde la ladera nororiental.",
+    "coordenadas": {
+      "lat": 6.2878,
+      "lng": -75.548
+    },
+    "barrio": "Santo Domingo Savio",
+    "comuna": "Popular",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "turista",
+      "pareja"
+    ],
+    "restricciones": [],
+    "tags": [
+      "arquitectura",
+      "urbanismo",
+      "cultura",
+      "metro_cable",
+      "lluvia_ok"
+    ],
+    "precio_promedio": "gratis",
+    "score_base": 9.2,
+    "fuente": "curado",
+    "accesibilidad": {
+      "estacion_metro": "Popular",
+      "distancia_metro_m": 819,
+      "bonus_metro": 0.2,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "p014",
+    "nombre": "Café Zorba — El Poblado",
+    "tipo": "gastronomia",
+    "descripcion": "Café especializado con ambiente bohemio, terrazas verdes y granos de origen colombiano.",
+    "coordenadas": {
+      "lat": 6.208,
+      "lng": -75.571
+    },
+    "barrio": "El Poblado",
+    "comuna": "El Poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "amigos"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cafe",
+      "especialidad",
+      "tranquilo",
+      "lluvia_ok",
+      "trabajo_remoto"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.8,
+    "fuente": "curado",
+    "accesibilidad": {
+      "estacion_metro": "Poblado",
+      "distancia_metro_m": 901,
+      "bonus_metro": 0.2,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "p015",
+    "nombre": "Estadio Atanasio Girardot",
+    "tipo": "entretenimiento",
+    "descripcion": "Complejo deportivo con el estadio del Nacional y el DIM. Área con bares y ambiente deportivo.",
+    "coordenadas": {
+      "lat": 6.2567,
+      "lng": -75.5912
+    },
+    "barrio": "Laureles",
+    "comuna": "Laureles",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "familia"
+    ],
+    "restricciones": [
+      "verificar_partido"
+    ],
+    "tags": [
+      "deporte",
+      "futbol",
+      "ambiente",
+      "bar"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.3,
+    "fuente": "curado",
+    "accesibilidad": {
+      "estacion_metro": "Estadio",
+      "distancia_metro_m": 497,
+      "bonus_metro": 0.3,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0001",
+    "nombre": "Presto",
+    "tipo": "gastronomia",
+    "descripcion": "Presto — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.184023,
+      "lng": -75.57869
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "fast_food"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.53,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Ayurá",
+      "distancia_metro_m": 858,
+      "bonus_metro": 0.2,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0002",
+    "nombre": "El Corral (Laureles Estadio)",
+    "tipo": "gastronomia",
+    "descripcion": "El Corral — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.245003,
+      "lng": -75.595412
+    },
+    "barrio": "",
+    "comuna": "laureles_estadio",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "fast_food"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.45,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Estadio",
+      "distancia_metro_m": 1217,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0003",
+    "nombre": "J&C Delicias (El Poblado)",
+    "tipo": "gastronomia",
+    "descripcion": "J&C Delicias — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.208944,
+      "lng": -75.56738
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.6,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Poblado",
+      "distancia_metro_m": 1233,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0004",
+    "nombre": "Triada",
+    "tipo": "gastronomia",
+    "descripcion": "Triada — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.207561,
+      "lng": -75.567997
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "bar"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.48,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Poblado",
+      "distancia_metro_m": 1220,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0005",
+    "nombre": "Discoteca Oz",
+    "tipo": "gastronomia",
+    "descripcion": "Discoteca Oz — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.207613,
+      "lng": -75.56798
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "bar"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.5,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Poblado",
+      "distancia_metro_m": 1219,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0006",
+    "nombre": "Barcelona Restaurante Bar",
+    "tipo": "gastronomia",
+    "descripcion": "Barcelona Restaurante Bar — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.208483,
+      "lng": -75.567783
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "bar"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.5,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Poblado",
+      "distancia_metro_m": 1205,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0007",
+    "nombre": "Thaico",
+    "tipo": "gastronomia",
+    "descripcion": "Thaico — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.208867,
+      "lng": -75.567105
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "bar"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.48,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Poblado",
+      "distancia_metro_m": 1264,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0008",
+    "nombre": "Tropical Cocktails",
+    "tipo": "gastronomia",
+    "descripcion": "Tropical Cocktails — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.209164,
+      "lng": -75.568757
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "bar"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.5,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Poblado",
+      "distancia_metro_m": 1080,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0009",
+    "nombre": "Papa John's",
+    "tipo": "gastronomia",
+    "descripcion": "Papa John's — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.216768,
+      "lng": -75.598279
+    },
+    "barrio": "",
+    "comuna": "belen",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "fast_food"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.35,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Poblado",
+      "distancia_metro_m": 2288,
+      "bonus_metro": 0.0,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0010",
+    "nombre": "McDonald's",
+    "tipo": "gastronomia",
+    "descripcion": "McDonald's — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.199532,
+      "lng": -75.573911
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "fast_food"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.55,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "?",
+      "distancia_metro_m": 994,
+      "bonus_metro": 0.2,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0012",
+    "nombre": "Crepes & Waffles (Laureles Estadio)",
+    "tipo": "gastronomia",
+    "descripcion": "Crepes & Waffles — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.245021,
+      "lng": -75.595012
+    },
+    "barrio": "",
+    "comuna": "laureles_estadio",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.6,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Estadio",
+      "distancia_metro_m": 1187,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0013",
+    "nombre": "Crepes & Waffles (Belen)",
+    "tipo": "gastronomia",
+    "descripcion": "Crepes & Waffles — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.233071,
+      "lng": -75.603634
+    },
+    "barrio": "",
+    "comuna": "belen",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.5,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Santa Lucía",
+      "distancia_metro_m": 2773,
+      "bonus_metro": 0.0,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0014",
+    "nombre": "J&C Delicias (Belen)",
+    "tipo": "gastronomia",
+    "descripcion": "J&C Delicias — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.232815,
+      "lng": -75.603599
+    },
+    "barrio": "",
+    "comuna": "belen",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.5,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Santa Lucía",
+      "distancia_metro_m": 2802,
+      "bonus_metro": 0.0,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0015",
+    "nombre": "Balcones de la 80",
+    "tipo": "gastronomia",
+    "descripcion": "Balcones de la 80 — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.230945,
+      "lng": -75.601664
+    },
+    "barrio": "",
+    "comuna": "belen",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.5,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Industriales",
+      "distancia_metro_m": 2877,
+      "bonus_metro": 0.0,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0016",
+    "nombre": "Manyare",
+    "tipo": "gastronomia",
+    "descripcion": "Manyare — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.245841,
+      "lng": -75.592195
+    },
+    "barrio": "",
+    "comuna": "laureles_estadio",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.69,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Estadio",
+      "distancia_metro_m": 938,
+      "bonus_metro": 0.2,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0017",
+    "nombre": "Claudio Express Pollos",
+    "tipo": "gastronomia",
+    "descripcion": "Claudio Express Pollos — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.210816,
+      "lng": -75.59522
+    },
+    "barrio": "",
+    "comuna": "belen",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.6,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Poblado",
+      "distancia_metro_m": 1891,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0018",
+    "nombre": "Restaurante Antojitos",
+    "tipo": "gastronomia",
+    "descripcion": "Restaurante Antojitos — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.214505,
+      "lng": -75.601978
+    },
+    "barrio": "",
+    "comuna": "belen",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.5,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Poblado",
+      "distancia_metro_m": 2649,
+      "bonus_metro": 0.0,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0019",
+    "nombre": "Pizzotas",
+    "tipo": "gastronomia",
+    "descripcion": "Pizzotas — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.211086,
+      "lng": -75.595217
+    },
+    "barrio": "",
+    "comuna": "belen",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.59,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Poblado",
+      "distancia_metro_m": 1889,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0020",
+    "nombre": "Rincón del Pollo",
+    "tipo": "gastronomia",
+    "descripcion": "Rincón del Pollo — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.214658,
+      "lng": -75.601478
+    },
+    "barrio": "",
+    "comuna": "belen",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.5,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Poblado",
+      "distancia_metro_m": 2596,
+      "bonus_metro": 0.0,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0021",
+    "nombre": "Restaurante Piedras Blancas",
+    "tipo": "gastronomia",
+    "descripcion": "Restaurante Piedras Blancas — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.311031,
+      "lng": -75.503827
+    },
+    "barrio": "",
+    "comuna": "popular",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.7,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Arví",
+      "distancia_metro_m": 3285,
+      "bonus_metro": 0.0,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0022",
+    "nombre": "Kokoriko",
+    "tipo": "gastronomia",
+    "descripcion": "Kokoriko — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.169314,
+      "lng": -75.587363
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "fast_food"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.44,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Envigado",
+      "distancia_metro_m": 1223,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0023",
+    "nombre": "El Cafe de Otraparte",
+    "tipo": "gastronomia",
+    "descripcion": "El Cafe de Otraparte — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.179361,
+      "lng": -75.58409
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "cafe"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.65,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Ayurá",
+      "distancia_metro_m": 777,
+      "bonus_metro": 0.2,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0024",
+    "nombre": "Shell Advance",
+    "tipo": "gastronomia",
+    "descripcion": "Shell Advance — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.272837,
+      "lng": -75.557975
+    },
+    "barrio": "",
+    "comuna": "aranjuez",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.4,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Universidad",
+      "distancia_metro_m": 944,
+      "bonus_metro": 0.2,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0025",
+    "nombre": "Pollo Broster",
+    "tipo": "gastronomia",
+    "descripcion": "Pollo Broster — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.271709,
+      "lng": -75.558401
+    },
+    "barrio": "",
+    "comuna": "aranjuez",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.4,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Universidad",
+      "distancia_metro_m": 856,
+      "bonus_metro": 0.2,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0026",
+    "nombre": "Chapinos",
+    "tipo": "gastronomia",
+    "descripcion": "Chapinos — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.172087,
+      "lng": -75.610719
+    },
+    "barrio": "",
+    "comuna": "guayabal",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "bar"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.49,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Punto de Atención al Cliente Metro",
+      "distancia_metro_m": 1102,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0027",
+    "nombre": "Hedipan",
+    "tipo": "gastronomia",
+    "descripcion": "Hedipan — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.172153,
+      "lng": -75.610583
+    },
+    "barrio": "",
+    "comuna": "guayabal",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "cafe"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.54,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Itagüí",
+      "distancia_metro_m": 1104,
+      "bonus_metro": 0.1,
+      "linea": "A"
+    }
+  },
+  {
+    "id": "osm0028",
+    "nombre": "Balcón de Comidas",
+    "tipo": "gastronomia",
+    "descripcion": "food court",
+    "coordenadas": {
+      "lat": 6.250863,
+      "lng": -75.56599
+    },
+    "barrio": "",
+    "comuna": "la_candelaria",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.9,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "?",
+      "distancia_metro_m": 211,
+      "bonus_metro": 0.4,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0029",
+    "nombre": "Le Bon",
+    "tipo": "gastronomia",
+    "descripcion": "french cafe magasin - free wifi",
+    "coordenadas": {
+      "lat": 6.208687,
+      "lng": -75.56808
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "cafe"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.53,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Poblado",
+      "distancia_metro_m": 1167,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0030",
+    "nombre": "Il Forno",
+    "tipo": "gastronomia",
+    "descripcion": "Il Forno — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.20728,
+      "lng": -75.567744
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.59,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Poblado",
+      "distancia_metro_m": 1258,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0032",
+    "nombre": "Tinto Tintero",
+    "tipo": "gastronomia",
+    "descripcion": "Tinto Tintero — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.207628,
+      "lng": -75.566784
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "cafe"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.55,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Poblado",
+      "distancia_metro_m": 1341,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0033",
+    "nombre": "Paella & Parrilla",
+    "tipo": "gastronomia",
+    "descripcion": "Paella & Parrilla — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.210283,
+      "lng": -75.572608
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.7,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Poblado",
+      "distancia_metro_m": 636,
+      "bonus_metro": 0.2,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0034",
+    "nombre": "Herbario",
+    "tipo": "gastronomia",
+    "descripcion": "Herbario — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.211749,
+      "lng": -75.572171
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.69,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Poblado",
+      "distancia_metro_m": 657,
+      "bonus_metro": 0.2,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0035",
+    "nombre": "Mondongo's",
+    "tipo": "gastronomia",
+    "descripcion": "Mondongo's — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.209629,
+      "lng": -75.567697
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.6,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Poblado",
+      "distancia_metro_m": 1180,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0036",
+    "nombre": "Zona de Comidas Homecenter",
+    "tipo": "gastronomia",
+    "descripcion": "Zona de Comidas Homecenter — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.248891,
+      "lng": -75.583919
+    },
+    "barrio": "",
+    "comuna": "laureles_estadio",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.8,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Suramericana",
+      "distancia_metro_m": 464,
+      "bonus_metro": 0.3,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0037",
+    "nombre": "Baluarte",
+    "tipo": "gastronomia",
+    "descripcion": "Baluarte — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.262872,
+      "lng": -75.596124
+    },
+    "barrio": "",
+    "comuna": "robledo",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "cafe"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.44,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Floresta",
+      "distancia_metro_m": 495,
+      "bonus_metro": 0.3,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0038",
+    "nombre": "Asados Bartolo",
+    "tipo": "gastronomia",
+    "descripcion": "Asados Bartolo — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.1703,
+      "lng": -75.587759
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.6,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Envigado",
+      "distancia_metro_m": 1134,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0039",
+    "nombre": "Hard Rock Cafe",
+    "tipo": "gastronomia",
+    "descripcion": "Hard Rock Cafe — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.199571,
+      "lng": -75.572352
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.6,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "?",
+      "distancia_metro_m": 1145,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0040",
+    "nombre": "La Pizzeria",
+    "tipo": "gastronomia",
+    "descripcion": "La Pizzeria — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.169128,
+      "lng": -75.584793
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "fast_food"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.45,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Envigado",
+      "distancia_metro_m": 1486,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0041",
+    "nombre": "Pancho Villa",
+    "tipo": "gastronomia",
+    "descripcion": "Pancho Villa — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.172085,
+      "lng": -75.584946
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "fast_food"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.45,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Envigado",
+      "distancia_metro_m": 1366,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0042",
+    "nombre": "Melodía para dos",
+    "tipo": "gastronomia",
+    "descripcion": "Melodía para dos — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.170088,
+      "lng": -75.588681
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "bar"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.5,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Envigado",
+      "distancia_metro_m": 1054,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0043",
+    "nombre": "Mega Pizza",
+    "tipo": "gastronomia",
+    "descripcion": "Mega Pizza — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.172874,
+      "lng": -75.584587
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "fast_food"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.45,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Envigado",
+      "distancia_metro_m": 1390,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0044",
+    "nombre": "Yesterday",
+    "tipo": "gastronomia",
+    "descripcion": "Yesterday — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.168576,
+      "lng": -75.588578
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "bar"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.5,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Envigado",
+      "distancia_metro_m": 1154,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0045",
+    "nombre": "Safari",
+    "tipo": "gastronomia",
+    "descripcion": "Safari — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.164939,
+      "lng": -75.585038
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "bar"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.48,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Envigado",
+      "distancia_metro_m": 1711,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0046",
+    "nombre": "Isabella's Place",
+    "tipo": "gastronomia",
+    "descripcion": "Isabella's Place — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.197747,
+      "lng": -75.573267
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.7,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "?",
+      "distancia_metro_m": 969,
+      "bonus_metro": 0.2,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0047",
+    "nombre": "AP'Titos",
+    "tipo": "gastronomia",
+    "descripcion": "AP'Titos — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.197528,
+      "lng": -75.573567
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.69,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "?",
+      "distancia_metro_m": 929,
+      "bonus_metro": 0.2,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0048",
+    "nombre": "El Corral (El Poblado)",
+    "tipo": "gastronomia",
+    "descripcion": "El Corral — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.198968,
+      "lng": -75.574487
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "fast_food"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.55,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "?",
+      "distancia_metro_m": 906,
+      "bonus_metro": 0.2,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0049",
+    "nombre": "Chinnese Food",
+    "tipo": "gastronomia",
+    "descripcion": "Chinnese Food — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.171476,
+      "lng": -75.581665
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.6,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Ayurá",
+      "distancia_metro_m": 1694,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0050",
+    "nombre": "Piccolo",
+    "tipo": "gastronomia",
+    "descripcion": "Piccolo — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.177478,
+      "lng": -75.584574
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "fast_food"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.54,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Ayurá",
+      "distancia_metro_m": 968,
+      "bonus_metro": 0.2,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0051",
+    "nombre": "Soft Touch",
+    "tipo": "gastronomia",
+    "descripcion": "Soft Touch — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.174389,
+      "lng": -75.585592
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "restaurant"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.6,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Envigado",
+      "distancia_metro_m": 1265,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0052",
+    "nombre": "Empanadas Envigadeñas",
+    "tipo": "gastronomia",
+    "descripcion": "Empanadas Envigadeñas — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.169474,
+      "lng": -75.587021
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "fast_food"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.45,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Envigado",
+      "distancia_metro_m": 1248,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0053",
+    "nombre": "La Bombonera",
+    "tipo": "gastronomia",
+    "descripcion": "La Bombonera — gastronomia en Medellín.",
+    "coordenadas": {
+      "lat": 6.168577,
+      "lng": -75.588087
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "pareja",
+      "amigos",
+      "familia",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "gastronomia",
+      "fast_food"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.45,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Envigado",
+      "distancia_metro_m": 1198,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0054",
+    "nombre": "Cinecolombia Unicentro",
+    "tipo": "cultura",
+    "descripcion": "Cinecolombia Unicentro — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.24078,
+      "lng": -75.586305
+    },
+    "barrio": "",
+    "comuna": "laureles_estadio",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "cinema"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.57,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Suramericana",
+      "distancia_metro_m": 1403,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0055",
+    "nombre": "Cinecolombia Los Molinos",
+    "tipo": "cultura",
+    "descripcion": "Cinecolombia Los Molinos — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.232363,
+      "lng": -75.603994
+    },
+    "barrio": "",
+    "comuna": "belen",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "cinema"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.47,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Santa Lucía",
+      "distancia_metro_m": 2852,
+      "bonus_metro": 0.0,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0056",
+    "nombre": "Cinemark El Tesoro",
+    "tipo": "cultura",
+    "descripcion": "Cinemark El Tesoro — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.198122,
+      "lng": -75.558849
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "cinema"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.47,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "?",
+      "distancia_metro_m": 2530,
+      "bonus_metro": 0.0,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0057",
+    "nombre": "CineColombia Oviedo",
+    "tipo": "cultura",
+    "descripcion": "CineColombia Oviedo — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.199855,
+      "lng": -75.575692
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "cinema"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.67,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "?",
+      "distancia_metro_m": 858,
+      "bonus_metro": 0.2,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0058",
+    "nombre": "Lido",
+    "tipo": "cultura",
+    "descripcion": "Lido — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.252245,
+      "lng": -75.564447
+    },
+    "barrio": "",
+    "comuna": "la_candelaria",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "theatre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.82,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "?",
+      "distancia_metro_m": 374,
+      "bonus_metro": 0.3,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0059",
+    "nombre": "Multicine Jumbo 65 - Royal Films",
+    "tipo": "cultura",
+    "descripcion": "Multicine Jumbo 65 - Royal Films — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.252266,
+      "lng": -75.585228
+    },
+    "barrio": "",
+    "comuna": "laureles_estadio",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "cinema"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.87,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Suramericana",
+      "distancia_metro_m": 258,
+      "bonus_metro": 0.4,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0060",
+    "nombre": "Cinema Vizcaya",
+    "tipo": "cultura",
+    "descripcion": "Cinema Vizcaya — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.207947,
+      "lng": -75.563077
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "cinema"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.57,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Poblado",
+      "distancia_metro_m": 1721,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0061",
+    "nombre": "Teatro Envigado",
+    "tipo": "cultura",
+    "descripcion": "Teatro Envigado — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.169978,
+      "lng": -75.588703
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "theatre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.65,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Envigado",
+      "distancia_metro_m": 1058,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0062",
+    "nombre": "José Félix de Restrepo",
+    "tipo": "cultura",
+    "descripcion": "José Félix de Restrepo — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.171095,
+      "lng": -75.586223
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "library"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.63,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Envigado",
+      "distancia_metro_m": 1259,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0063",
+    "nombre": "Biblioteca Pública Comfenalco Castilla",
+    "tipo": "cultura",
+    "descripcion": "Biblioteca Pública Comfenalco Castilla — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.289866,
+      "lng": -75.57029
+    },
+    "barrio": "",
+    "comuna": "doce_de_octubre",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "library"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.13,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Tricentenario",
+      "distancia_metro_m": 622,
+      "bonus_metro": 0.2,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0064",
+    "nombre": "Centro Cultural de Moravia",
+    "tipo": "cultura",
+    "descripcion": "Centro Cultural de Moravia — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.275414,
+      "lng": -75.562553
+    },
+    "barrio": "",
+    "comuna": "aranjuez",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "library"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.43,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Universidad",
+      "distancia_metro_m": 757,
+      "bonus_metro": 0.2,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0065",
+    "nombre": "Casa Tres Patios",
+    "tipo": "cultura",
+    "descripcion": "Casa Tres Patios — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.260617,
+      "lng": -75.562243
+    },
+    "barrio": "",
+    "comuna": "aranjuez",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "arts_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.63,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Hospital",
+      "distancia_metro_m": 292,
+      "bonus_metro": 0.4,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0066",
+    "nombre": "Biblioteca Escolar I. E. José Horacio Betancur",
+    "tipo": "cultura",
+    "descripcion": "Biblioteca Escolar I. E. José Horacio Betancur — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.274693,
+      "lng": -75.627723
+    },
+    "barrio": "",
+    "comuna": "san_javier",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "library"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.93,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "San Javier",
+      "distancia_metro_m": 2479,
+      "bonus_metro": 0.0,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0067",
+    "nombre": "Fractal Teatro",
+    "tipo": "cultura",
+    "descripcion": "Fractal Teatro — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.249906,
+      "lng": -75.560219
+    },
+    "barrio": "",
+    "comuna": "la_candelaria",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "theatre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.75,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "?",
+      "distancia_metro_m": 854,
+      "bonus_metro": 0.2,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0068",
+    "nombre": "Teatro El Trueque",
+    "tipo": "cultura",
+    "descripcion": "Teatro El Trueque — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.246982,
+      "lng": -75.559759
+    },
+    "barrio": "",
+    "comuna": "la_candelaria",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "theatre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.65,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Parque Berrío",
+      "distancia_metro_m": 1012,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0069",
+    "nombre": "Teatro Matacandelas",
+    "tipo": "cultura",
+    "descripcion": "Teatro Matacandelas — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.244509,
+      "lng": -75.564585
+    },
+    "barrio": "",
+    "comuna": "la_candelaria",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "theatre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.75,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "San Antonio",
+      "distancia_metro_m": 617,
+      "bonus_metro": 0.2,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0070",
+    "nombre": "Biblioteca Público Escolar Popular No.2",
+    "tipo": "cultura",
+    "descripcion": "Biblioteca Público Escolar Popular No.2 — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.302369,
+      "lng": -75.547063
+    },
+    "barrio": "",
+    "comuna": "popular",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "library"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.93,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Popular",
+      "distancia_metro_m": 810,
+      "bonus_metro": 0.2,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0071",
+    "nombre": "Mata Candelas",
+    "tipo": "cultura",
+    "descripcion": "Mata Candelas — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.244913,
+      "lng": -75.564802
+    },
+    "barrio": "",
+    "comuna": "la_candelaria",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "arts_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.83,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "San Antonio",
+      "distancia_metro_m": 575,
+      "bonus_metro": 0.3,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0072",
+    "nombre": "Salon Social El Avila",
+    "tipo": "cultura",
+    "descripcion": "Salon Social El Avila — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.233358,
+      "lng": -75.557226
+    },
+    "barrio": "",
+    "comuna": "buenos_aires",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "arts_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.43,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Carrera 34 Calle 29C",
+      "distancia_metro_m": 831,
+      "bonus_metro": 0.2,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0073",
+    "nombre": "Biblioteca Nadino",
+    "tipo": "cultura",
+    "descripcion": "Biblioteca Nadino — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.234113,
+      "lng": -75.527398
+    },
+    "barrio": "",
+    "comuna": "villa_hermosa",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "library"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.93,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Alimentador Metro",
+      "distancia_metro_m": 2369,
+      "bonus_metro": 0.0,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0074",
+    "nombre": "Parque Biblioteca San Cristóbal",
+    "tipo": "cultura",
+    "descripcion": "Parque Biblioteca San Cristóbal — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.277918,
+      "lng": -75.636971
+    },
+    "barrio": "",
+    "comuna": "san_javier",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "library"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.93,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "San Javier",
+      "distancia_metro_m": 3439,
+      "bonus_metro": 0.0,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0075",
+    "nombre": "Auditorio Máximum",
+    "tipo": "cultura",
+    "descripcion": "Auditorio Máximum — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.166688,
+      "lng": -75.630986
+    },
+    "barrio": "",
+    "comuna": "guayabal",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "theatre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.65,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "La Estrella",
+      "distancia_metro_m": 1636,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0076",
+    "nombre": "La Fanfarria (Títeres)",
+    "tipo": "cultura",
+    "descripcion": "La Fanfarria (Títeres) — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.249194,
+      "lng": -75.604857
+    },
+    "barrio": "",
+    "comuna": "laureles_estadio",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "theatre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.75,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Santa Lucía",
+      "distancia_metro_m": 987,
+      "bonus_metro": 0.2,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0077",
+    "nombre": "Casa de la Cultura Pedregal",
+    "tipo": "cultura",
+    "descripcion": "Casa de la Cultura Pedregal — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.300472,
+      "lng": -75.574149
+    },
+    "barrio": "",
+    "comuna": "doce_de_octubre",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "arts_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.03,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Tricentenario",
+      "distancia_metro_m": 1533,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0078",
+    "nombre": "Biblioteca Pública Piloto",
+    "tipo": "cultura",
+    "descripcion": "Biblioteca Pública Piloto — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.300558,
+      "lng": -75.574258
+    },
+    "barrio": "",
+    "comuna": "doce_de_octubre",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "library"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.03,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Tricentenario",
+      "distancia_metro_m": 1548,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0079",
+    "nombre": "Pequeño Teatro",
+    "tipo": "cultura",
+    "descripcion": "Pequeño Teatro — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.247476,
+      "lng": -75.561653
+    },
+    "barrio": "",
+    "comuna": "la_candelaria",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "theatre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.75,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Parque Berrío",
+      "distancia_metro_m": 799,
+      "bonus_metro": 0.2,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0080",
+    "nombre": "Colombo Americano",
+    "tipo": "cultura",
+    "descripcion": "Colombo Americano — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.249734,
+      "lng": -75.562724
+    },
+    "barrio": "",
+    "comuna": "la_candelaria",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "cinema"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.77,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "?",
+      "distancia_metro_m": 593,
+      "bonus_metro": 0.3,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0081",
+    "nombre": "Casa de la Cultura Poblado",
+    "tipo": "cultura",
+    "descripcion": "Casa de la Cultura Poblado — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.190703,
+      "lng": -75.578669
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "arts_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.83,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Aguacatala",
+      "distancia_metro_m": 492,
+      "bonus_metro": 0.3,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0083",
+    "nombre": "Teatro al aire libre Pedregal",
+    "tipo": "cultura",
+    "descripcion": "Teatro al aire libre Pedregal — cultura en Medellín.",
+    "coordenadas": {
+      "lat": 6.302517,
+      "lng": -75.571553
+    },
+    "barrio": "",
+    "comuna": "doce_de_octubre",
+    "cubierto": true,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "solo",
+      "pareja",
+      "turista"
+    ],
+    "restricciones": [],
+    "tags": [
+      "cultura",
+      "arts_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.03,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Acevedo",
+      "distancia_metro_m": 1458,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0084",
+    "nombre": "Parque de Cristo Rey",
+    "tipo": "naturaleza",
+    "descripcion": "Parque de Cristo Rey — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.207281,
+      "lng": -75.586379
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "park"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.6,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Poblado",
+      "distancia_metro_m": 1048,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0085",
+    "nombre": "el alto",
+    "tipo": "naturaleza",
+    "descripcion": "el alto — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.272204,
+      "lng": -75.625285
+    },
+    "barrio": "",
+    "comuna": "san_javier",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "nature_reserve"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.94,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "San Javier",
+      "distancia_metro_m": 2095,
+      "bonus_metro": 0.0,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0087",
+    "nombre": "parque (Popular)",
+    "tipo": "naturaleza",
+    "descripcion": "parque — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.297008,
+      "lng": -75.536581
+    },
+    "barrio": "",
+    "comuna": "popular",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "park"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.88,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Santo Domingo",
+      "distancia_metro_m": 704,
+      "bonus_metro": 0.2,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0090",
+    "nombre": "Parque Infantil",
+    "tipo": "naturaleza",
+    "descripcion": "Parque Infantil — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.290477,
+      "lng": -75.540829
+    },
+    "barrio": "",
+    "comuna": "popular",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "park"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.1,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Santo Domingo",
+      "distancia_metro_m": 277,
+      "bonus_metro": 0.4,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0091",
+    "nombre": "Parque de las Esculturas",
+    "tipo": "naturaleza",
+    "descripcion": "Parque de las Esculturas — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.235348,
+      "lng": -75.58104
+    },
+    "barrio": "",
+    "comuna": "la_america",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "park"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.4,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Industriales",
+      "distancia_metro_m": 840,
+      "bonus_metro": 0.2,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0092",
+    "nombre": "Vivero Francisco Antonio Zea",
+    "tipo": "naturaleza",
+    "descripcion": "Vivero Francisco Antonio Zea — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.285349,
+      "lng": -75.57564
+    },
+    "barrio": "",
+    "comuna": "doce_de_octubre",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "garden"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.03,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Caribe",
+      "distancia_metro_m": 1039,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0093",
+    "nombre": "PARQUE DE ARBOLES",
+    "tipo": "naturaleza",
+    "descripcion": "PARQUE DE ARBOLES — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.264319,
+      "lng": -75.542062
+    },
+    "barrio": "",
+    "comuna": "manrique",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "park"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.0,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Palos Verdes",
+      "distancia_metro_m": 1591,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0096",
+    "nombre": "parque (Doce De Octubre)",
+    "tipo": "naturaleza",
+    "descripcion": "parque — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.297688,
+      "lng": -75.572957
+    },
+    "barrio": "",
+    "comuna": "doce_de_octubre",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "park"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.98,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Tricentenario",
+      "distancia_metro_m": 1222,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0098",
+    "nombre": "Parque de San Antonio",
+    "tipo": "naturaleza",
+    "descripcion": "Parque de San Antonio — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.201493,
+      "lng": -75.590621
+    },
+    "barrio": "",
+    "comuna": "guayabal",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "park"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.6,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "?",
+      "distancia_metro_m": 1262,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0104",
+    "nombre": "Cultivo de zanahorias doña Hortencia",
+    "tipo": "naturaleza",
+    "descripcion": "Cultivo de zanahorias doña Hortencia — naturaleza en Medellín.",
+    "coordenadas": {
+      "lat": 6.194087,
+      "lng": -75.515974
+    },
+    "barrio": "",
+    "comuna": "villa_hermosa",
+    "cubierto": false,
+    "momentos": [
+      "mañana",
+      "tarde"
+    ],
+    "grupos": [
+      "familia",
+      "pareja",
+      "amigos",
+      "solo"
+    ],
+    "restricciones": [],
+    "tags": [
+      "naturaleza",
+      "garden"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.93,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Alimentador Metro",
+      "distancia_metro_m": 5857,
+      "bonus_metro": 0.0,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0115",
+    "nombre": "El blue",
+    "tipo": "entretenimiento",
+    "descripcion": "El blue — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.210696,
+      "lng": -75.567896
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "nightclub"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.49,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Poblado",
+      "distancia_metro_m": 1138,
+      "bonus_metro": 0.1,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0117",
+    "nombre": "El templo del Fútbol",
+    "tipo": "entretenimiento",
+    "descripcion": "El templo del Fútbol — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.182795,
+      "lng": -75.586119
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "sports_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.75,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Ayurá",
+      "distancia_metro_m": 360,
+      "bonus_metro": 0.3,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0118",
+    "nombre": "Señor Gol",
+    "tipo": "entretenimiento",
+    "descripcion": "Señor Gol — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.181654,
+      "lng": -75.587052
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "sports_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.75,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Ayurá",
+      "distancia_metro_m": 496,
+      "bonus_metro": 0.3,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0119",
+    "nombre": "Envigol",
+    "tipo": "entretenimiento",
+    "descripcion": "Envigol — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.164684,
+      "lng": -75.59837
+    },
+    "barrio": "",
+    "comuna": "guayabal",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "sports_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.64,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Itagüí",
+      "distancia_metro_m": 942,
+      "bonus_metro": 0.2,
+      "linea": "A"
+    }
+  },
+  {
+    "id": "osm0120",
+    "nombre": "Baranova Discoteka",
+    "tipo": "entretenimiento",
+    "descripcion": "Baranova Discoteka — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.278946,
+      "lng": -75.635036
+    },
+    "barrio": "",
+    "comuna": "san_javier",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "nightclub"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.8,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "San Javier",
+      "distancia_metro_m": 3366,
+      "bonus_metro": 0.0,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0121",
+    "nombre": "Discoteca Camelot",
+    "tipo": "entretenimiento",
+    "descripcion": "Discoteca Camelot — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.278996,
+      "lng": -75.635059
+    },
+    "barrio": "",
+    "comuna": "san_javier",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "nightclub"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 7.8,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "San Javier",
+      "distancia_metro_m": 3372,
+      "bonus_metro": 0.0,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0123",
+    "nombre": "Greenfit Sports Las Vegas",
+    "tipo": "entretenimiento",
+    "descripcion": "Greenfit Sports Las Vegas — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.182476,
+      "lng": -75.585672
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "sports_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.75,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Ayurá",
+      "distancia_metro_m": 399,
+      "bonus_metro": 0.3,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0124",
+    "nombre": "Curves",
+    "tipo": "entretenimiento",
+    "descripcion": "Curves — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.182383,
+      "lng": -75.585597
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "sports_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.73,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Ayurá",
+      "distancia_metro_m": 411,
+      "bonus_metro": 0.3,
+      "linea": "?"
+    }
+  },
+  {
+    "id": "osm0125",
+    "nombre": "Greenfit Envigado",
+    "tipo": "entretenimiento",
+    "descripcion": "Greenfit Envigado — entretenimiento en Medellín.",
+    "coordenadas": {
+      "lat": 6.178562,
+      "lng": -75.584252
+    },
+    "barrio": "",
+    "comuna": "el_poblado",
+    "cubierto": false,
+    "momentos": [
+      "tarde",
+      "noche"
+    ],
+    "grupos": [
+      "amigos",
+      "pareja",
+      "familia"
+    ],
+    "restricciones": [],
+    "tags": [
+      "entretenimiento",
+      "sports_centre"
+    ],
+    "precio_promedio": "medio",
+    "score_base": 8.65,
+    "fuente": "OpenStreetMap",
+    "accesibilidad": {
+      "estacion_metro": "Ayurá",
+      "distancia_metro_m": 858,
+      "bonus_metro": 0.2,
+      "linea": "?"
+    }
+  }
+]
